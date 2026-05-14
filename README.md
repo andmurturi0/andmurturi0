@@ -15,12 +15,12 @@ I am currently specializing in developing advanced web applications using:
 ---
 
 ### 🎓 Education & Certifications
-I hold several professional certifications from **Arra Academy**, covering the core pillars of modern technology:
+I hold several professional certifications from **Arra Academy**:
 
-*   **Software Engineering:** Certified in **C, C++, C# & SQL Database**, with experience in building desktop applications.
-*   **Web Development:** Certified in **PHP & MySQL Database** for building multifunctional web applications.
-*   **Creative Design:** Certified in **Graphic Design** (Figma, Photoshop, Illustrator) with a focus on modern Web UI/UX.
-*   **Digital Presence:** Certified in **WordPress & Digital Marketing** for managing and scaling online business growth.
+*   [**Software Engineering**](./certifications/Certifikata-C-CPP-CS-SQL.jpg): Certified in C, C++, C# & SQL Database.
+*   [**Web Development**](./certifications/Certifikata-PHP-MySQL.png): Certified in PHP & MySQL Database.
+*   [**Creative Design**](./certifications/Certifikata-Graphic-Design.jpg): Certified in Figma, Photoshop, Illustrator.
+*   [**Digital Presence**](./certifications/Certifikata-WordPress-Marketing.jpg): Certified in WordPress & Digital Marketing.
 
 ---
 
