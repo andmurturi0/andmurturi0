@@ -41,7 +41,7 @@ I hold several professional certifications from **Arra Academy**, covering the c
 ---
 
 ### 📫 Let's Connect!
-- 💼 **LinkedIn:** [And Murturi](https://www.linkedin.com/in/andmurturi/)
+- 💼 **LinkedIn:** [And Murturi](https://www.linkedin.com/in/and-murturi-167a2440a/)
 - 📧 **Email:** andmurturi0@gmail.com
 - 📍 **Location:** Prishtina, Kosovo
 
