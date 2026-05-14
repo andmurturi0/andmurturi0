@@ -17,10 +17,10 @@ I am currently specializing in developing advanced web applications using:
 ### 🎓 Education & Certifications
 I hold several professional certifications from **Arra Academy**:
 
-*   [**Software Engineering**](./certifications/Certifikata-C-CPP-CS-SQL.jpg): Certified in C, C++, C# & SQL Database.
-*   [**Web Development**](./certifications/Certifikata-PHP-MySQL.png): Certified in PHP & MySQL Database.
-*   [**Creative Design**](./certifications/Certifikata-Graphic-Design.jpg): Certified in Figma, Photoshop, Illustrator.
-*   [**Digital Presence**](./certifications/Certifikata-WordPress-Marketing.jpg): Certified in WordPress & Digital Marketing.
+*   [**Software Engineering**](./certifications/Certifikata%20C%2C%20C%2B%2B%2C%20C%23%20%26%20SQL%20Database.png): Certified in C, C++, C# & SQL Database.
+*   [**Web Development**](./certifications/Certifikata%20PHP%20%26%20MySQL%20Database.png): Certified in PHP & MySQL Database.
+*   [**Creative Design**](./certifications/Certifikata%20Graphic%20Design.png): Certified in Figma, Photoshop, Illustrator.
+*   [**Digital Presence**](./certifications/Certifikata%20WordPress%20%26%20Digital%20Marketing.png): Certified in WordPress & Digital Marketing.
 
 ---
 
